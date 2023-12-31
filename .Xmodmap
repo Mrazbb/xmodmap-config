@@ -1,0 +1,9 @@
+keycode 107 = Super_L
+clear Lock
+add Mod4 = Super_L
+
+
+clear Lock
+keycode 66 = Escape
+
+
